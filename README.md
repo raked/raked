@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raked
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python, C#, C++, & JavaScript
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking to collaborate on anything you can throw at me!
 - 📫 How to reach me: rakedgit@protonmail.com
 
 <!---
